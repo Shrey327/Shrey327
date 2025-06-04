@@ -5,10 +5,15 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 💻 Tech Stack
 Languages: Python, JavaScript, C++, Java
+
 Frontend: HTML5, CSS3, Tailwind CSS, React
+
 Backend: Flask, FastAPI
+
 Databases: MongoDB
+
 Cloud & Tools: Git, GitHub, Google Colab, VS Code
+
 Other: LangChain, Transformers
 
 
