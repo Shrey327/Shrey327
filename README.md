@@ -4,13 +4,15 @@
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in Bangalore, I enjoy working on projects that make a difference.
 
 💻 Tech Stack
-Languages: Python, JavaScript, C++, Java
+Languages: Python, JavaScript, C++
 
 Frontend: HTML5, CSS3, Tailwind CSS, React
 
 Backend: Flask, FastAPI
 
 Databases: MongoDB
+
+Vector Databases: Qdrant
 
 Cloud & Tools: Git, GitHub, Google Colab, VS Code
 
