@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Shreyansh 👋
 
-<!--
-**Shrey327/Shrey327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in Bangalore, I enjoy working on projects that make a difference.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Languages: Python, JavaScript, C++, Java
+Frontend: HTML5, CSS3, Tailwind CSS, React
+Backend: Flask, FastAPI
+Databases: MongoDB
+Cloud & Tools: Git, GitHub, Google Colab, VS Code
+Other: LangChain, Transformers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey327&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey327&layout=compact&theme=radical)
+
+
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shreyansh-pathak-9833662a1/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyansh.pathak27@gmail.com)
+
+
+
+---
+⭐️ From [YourUsername](https://github.com/Shrey327)
