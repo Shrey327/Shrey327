@@ -14,14 +14,9 @@ I'm a passionate developer who loves creating innovative solutions and learning 
   <img alt=" GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shrey327&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey327&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <br/>
-  <img alt="blazickjp's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=blazickjp&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="blazickjp's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Shrey327&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="blazickjp's streak" src="https://streak-stats.demolab.com/?user=blazickjp&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
