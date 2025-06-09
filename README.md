@@ -4,12 +4,6 @@
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in Bangalore, I enjoy working on projects that make a difference.
 
 
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=ML+Engineering;AI+Engineering;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
-
 <div align="center">
   <img alt=" GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shrey327&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey327&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
