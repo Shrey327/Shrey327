@@ -28,7 +28,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21F.svg?logo=huggingface&logoColor=black"></a>
     <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000.svg?logo=langchain&logoColor=white"></a>
-    <a href="#"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-7B16FF.svg?logo=data:image/svg+xml;base64,&logoColor=white"></a>
+<!--     <a href="#"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-7B16FF.svg?logo=data:image/svg+xml;base64,&logoColor=white"></a> -->
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
