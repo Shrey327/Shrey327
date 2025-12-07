@@ -3,7 +3,7 @@
   <h3> AI Engineer </h3>
 
   <p>
-    I specialize in building scalable <b>multi-agent microservices</b> and <b>distributed training pipelines</b>[cite: 4, 5].
+    I specialize in building scalable <b>multi-agent microservices</b> and <b>distributed training pipelines</b>
   </p>
 
   <a href="https://www.linkedin.com/in/shreyansh-pathak327/">
