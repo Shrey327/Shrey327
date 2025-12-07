@@ -45,7 +45,6 @@
 </div>
 
 <br />
----
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/Shrey327">Shreyansh Pathak</a></sub>
 </div>
