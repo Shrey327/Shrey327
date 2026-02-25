@@ -29,19 +29,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Shrey327&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866"
-    alt="Shreyansh's GitHub stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey327&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph/?username=Shrey327&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true"
     alt="Shreyansh's Activity Graph"
   />
