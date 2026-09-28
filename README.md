@@ -99,18 +99,6 @@ The system analyzes source code, cloud configurations, and CI/CD infrastructure 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrey327\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey327\&layout=compact\&theme=transparent\&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on **LLM systems, GPU acceleration, inference optimization, post-training, and agentic AI**.
