@@ -1,69 +1,91 @@
-<div align="center">
-  <h1>Hi there, I'm Shreyansh 👋</h1>
-  <h3>AI Engineer • Multi‑Agent Systems • Distributed ML</h3>
+```markdown
 
-  <p>
-    I design and ship <b>multi-agent microservices</b>, <b>LLM-powered workflows</b>, and
-    <b>distributed training pipelines</b> for real-world products.
-  </p>
+```
 
-  <a href="https://www.linkedin.com/in/shreyansh-pathak327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shreyansh.pathak27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+# Hi there, I'm Shreyansh Pathak 👋
+
+### AI/ML Systems Engineer • Custom CUDA/Triton Kernels • Multi-Agent Architectures
+
+Building high-performance LLM inference engines, post-training RL frameworks, and production-grade agentic workflows from the ground up.
+
+[
+
+](https://www.linkedin.com/in/shreyansh-pathak327/)
+[
+
+](mailto:shreyansh.pathak27@gmail.com)
+[
+
+](https://github.com/Shrey327)
+[
+
+](https://huggingface.co/Shrey327)
 
 ---
 
 ### 👨‍💻 About Me
 
-- AI Engineer & B.Tech AIML student building production-grade agentic systems and ML services.  
-- Experienced with end‑to‑end pipelines: data, training, evaluation, and scalable deployment.  
-- Currently exploring <b>tool‑calling agents</b>, <b>LangGraph workflows</b>, and <b>MLOps for LLM apps</b>.  
+* 🚀 **Software Developer Intern** at Diarch Group & **B.Tech AIML Student** at Dayananda Sagar College of Engineering.
+
+
+* ⚡ Specializing in **low-level GPU acceleration** (CUDA, Triton, KV caching, continuous batching) and **LLM post-training** (GRPO, RLHF).
+
+
+* 🛠️ Architecting production agent systems using **LangGraph**, **Model Context Protocol (MCP)**, and **vector databases**.
+
+
 
 ---
 
-### 📊 GitHub Overview
+### 🚀 Featured Projects
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=Shrey327&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true"
-    alt="Shreyansh's Activity Graph"
-  />
-</p>
+| ### ⚡ InferenceX
+
+<br>Custom Qwen2.5 LLM serving engine built from scratch with custom CUDA/Triton kernels, KV caching, and dynamic request batching. Achieved **6.34× throughput** and **2.58× faster processing** on an RTX 4050.
+
+<br>`Python` `PyTorch` `Triton` `CUDA` `vLLM` | ### 🧠 Qwen3-1.7B GRPO Reasoning
+
+<br>Fine-tuned Qwen3-1.7B using Group Relative Policy Optimization (GRPO). Reduced average reasoning trace length by **22.2%** (579 to 450 tokens) while maintaining **85% GSM8K accuracy**.
+
+<br>`PyTorch` `Transformers` `GRPO` `RLHF` |
+| --- | --- |
+| ### ⚙️ ML Systems from Scratch
+
+<br>C++17 & CUDA language model training engine built from scratch covering tokenization, autograd engines, custom attention mechanisms, and GPU memory management.
+
+<br>`C++17` `CUDA` `GPU Memory Control` | ### 🛡️ Aegis Security Auditor
+
+<br>AI software security auditor powered by 7 specialized agents connected via Model Context Protocol (MCP) to analyze CI/CD pipelines, cloud configs, and source code.
+
+<br>`Python` `LangGraph` `MCP` `Next.js` |
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="left">
+**Languages & Systems**
 
-**LLM & ML**
+**AI/ML & LLM Engineering**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+**Backend, Infra & Vector DBs**
 
-**Backend & Infra**
+---
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-</div>
+### 📊 GitHub Overview
 
 ---
 
 ### 🤝 Let’s Connect
 
-- Open to internships, freelance work, and collaborations in AI engineering and LLM agents.  
-- Reach out on LinkedIn or email for projects, open-source ideas, or just to talk about agents and ML systems.  
+* Open to internships, research roles, and engineering collaborations in **LLM Inference, CUDA/Triton kernels, and Multi-Agent Systems**.
 
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/Shrey327">Shreyansh Pathak</a></sub>
-</div>
+
+* Reach out on [LinkedIn](https://www.linkedin.com/in/shreyansh-pathak327/?utm_source=gemini) or via [Email](mailto:shreyansh.pathak27@gmail.com).
+
+
+
+⭐ Engineered by [Shreyansh Pathak](https://github.com/Shrey327?utm_source=gemini)
+
+```
+
+```
