@@ -1,57 +1,127 @@
-```markdown
-# Hi there, I'm Shreyansh Pathak 👋
+# Hi, I'm Shreyansh Pathak 👋
 
-### AI/ML Systems Engineer • Custom CUDA/Triton Kernels • Multi-Agent Architectures
+### AI/ML Systems Engineer · LLM Inference · GPU Acceleration · Agentic AI
 
-Building high-performance LLM inference engines, post-training RL frameworks, and production-grade agentic workflows from the ground up.
+I build **high-performance AI systems from the ground up**, with a focus on LLM inference, GPU acceleration, post-training, and production-grade agentic architectures.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-pathak327/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrey327)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Shrey327)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyansh.pathak27@gmail.com)
-
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shreyansh-pathak327/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Shrey327)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge\&logoColor=black)](https://huggingface.co/Shrey327)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shreyansh.pathak27@gmail.com)
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 🚀 **Software Developer Intern** at Diarch Group & **B.Tech AIML Student** at Dayananda Sagar College of Engineering.
-* ⚡ Specializing in **low-level GPU acceleration** (CUDA, Triton, KV caching, continuous batching) and **LLM post-training** (GRPO, RLHF).
-* 🛠️ Architecting production agent systems using **LangGraph**, **Model Context Protocol (MCP)**, and **Vector Databases**.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| **⚡ InferenceX** | Custom Qwen2.5 LLM serving engine built from scratch with custom CUDA/Triton kernels, KV caching, and dynamic request batching. Achieved **6.34× throughput** and **2.58× faster processing** on an RTX 4050. | `Python` `PyTorch` `Triton` `CUDA` `vLLM` |
-| **🧠 Qwen3-1.7B GRPO Reasoning** | Fine-tuned Qwen3-1.7B using Group Relative Policy Optimization (GRPO). Reduced average reasoning trace length by **22.2%** (579 to 450 tokens) while maintaining **85% GSM8K accuracy**. | `PyTorch` `Transformers` `GRPO` `RLHF` |
-| **⚙️ ML Systems from Scratch** | C++17 & CUDA language model training engine built from scratch covering tokenization, autograd engines, custom attention mechanisms, and GPU memory management. | `C++17` `CUDA` `GPU Memory Control` |
-| **🛡️ Aegis Security Auditor** | AI software security auditor powered by 7 specialized agents connected via Model Context Protocol (MCP) to analyze CI/CD pipelines, cloud configs, and source code. | `Python` `LangGraph` `MCP` `Next.js` |
+* 🎓 **B.Tech AI/ML** student at **Dayananda Sagar College of Engineering**
+* 💻 **Software Developer Intern** at **Diarch Group**, building production software and AI-driven systems
+* ⚡ Focused on **LLM inference & GPU systems** — CUDA, Triton, KV caching, batching, and performance optimization
+* 🧠 Exploring **LLM post-training** with GRPO, RLHF, and parameter-efficient fine-tuning
+* 🤖 Building **agentic AI systems** using LangGraph, MCP, RAG, and multi-agent architectures
+* 🔬 Interested in understanding AI systems **below the abstraction layer**, from model architectures and kernels to serving infrastructure
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-* **Languages & Systems:** `C++17`, `CUDA`, `Triton`, `Python`, `TypeScript`
-* **AI/ML & LLM Engineering:** `PyTorch`, `vLLM`, `LangGraph`, `Transformers`, `GRPO / RLHF`, `OpenEnv`
-* **Backend, Infra & Databases:** `FastAPI`, `Next.js`, `Docker`, `Model Context Protocol (MCP)`, `Vector Databases`
+### ⚡ InferenceX — LLM Inference Engine
 
----
+A custom Qwen2.5 inference and serving engine built from the ground up, focusing on efficient GPU execution and high-throughput serving.
 
-### 📊 GitHub Overview
+**Highlights**
 
----
+* Implemented custom **CUDA/Triton kernels**
+* Built **KV-cache management** and dynamic request batching
+* Designed an inference pipeline for concurrent LLM workloads
+* Achieved **6.34× higher throughput** and **2.58× faster processing** on an RTX 4050
 
-### 🤝 Let’s Connect
-
-* Open to research roles, internships, and engineering collaborations in **LLM Inference, CUDA/Triton kernels, and Multi-Agent Systems**.
-* Reach out on [LinkedIn](https://www.linkedin.com/in/shreyansh-pathak327/?utm_source=gemini) or via [Email](mailto:shreyansh.pathak27@gmail.com).
+`Python` `PyTorch` `CUDA` `Triton` `vLLM`
 
 ---
 
-⭐ Engineered by [Shreyansh Pathak](https://github.com/Shrey327?utm_source=gemini)
+### 🧠 Qwen3-1.7B — GRPO Reasoning
 
-```
+Post-trained Qwen3-1.7B using **Group Relative Policy Optimization (GRPO)** to improve reasoning efficiency.
+
+**Results**
+
+* Reduced average reasoning trace length by **22.2%**
+* Reduced average trace length from **579 → 450 tokens**
+* Maintained **85% GSM8K accuracy**
+
+`PyTorch` `Transformers` `GRPO` `RLHF`
+
+---
+
+### ⚙️ ML Systems from Scratch
+
+A C++17/CUDA-based language model training system built to understand the internals of modern ML frameworks.
+
+**Implemented**
+
+* Tokenization
+* Automatic differentiation
+* Custom attention mechanisms
+* GPU memory management
+* Neural network training primitives
+
+`C++17` `CUDA` `GPU Systems`
+
+---
+
+### 🛡️ Aegis Security Auditor
+
+An AI-powered security auditing platform using **7 specialized agents** coordinated through Model Context Protocol (MCP).
+
+The system analyzes source code, cloud configurations, and CI/CD infrastructure through specialized agent workflows.
+
+`Python` `LangGraph` `MCP` `Next.js`
+
+---
+
+## 🛠️ Technical Stack
+
+### AI / ML
+
+`PyTorch` `Transformers` `vLLM` `GRPO` `RLHF` `RAG` `LangGraph`
+
+### GPU & Systems
+
+`C++17` `CUDA` `Triton` `KV Caching` `Batching` `GPU Memory Management`
+
+### Agentic AI
+
+`LangGraph` `MCP` `Multi-Agent Systems` `Vector Databases` `Tool Calling`
+
+### Backend & Infrastructure
+
+`Python` `TypeScript` `FastAPI` `Next.js` `Docker` `PostgreSQL` `MongoDB`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrey327\&show_icons=true\&theme=transparent\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey327\&layout=compact\&theme=transparent\&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on **LLM systems, GPU acceleration, inference optimization, post-training, and agentic AI**.
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/shreyansh-pathak327/)
+* 🤗 [Hugging Face](https://huggingface.co/Shrey327)
+* 💻 [GitHub](https://github.com/Shrey327)
+* 📧 [Email](mailto:shreyansh.pathak27@gmail.com)
+
+---
+
+<p align="center">
+  <b>Building AI systems closer to the metal ⚡</b>
+</p>
