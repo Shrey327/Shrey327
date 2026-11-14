@@ -9,7 +9,6 @@ B.Tech AI/ML at Dayananda Sagar College of Engineering. Software Developer Inter
 
 | Project | Summary |
 | --- | --- |
-| [InferenceX](https://github.com/Shrey327/InferenceX) | LLM inference server written from scratch in PyTorch: KV cache, continuous batching, paged attention, CUDA graphs and a fused Triton flash-decode kernel. On an RTX 4050: 6.34x throughput from batching, 2.58x from CUDA graphs at batch 16. |
 | [kernel-env](https://github.com/Shrey327/kernel-env) | OpenEnv RL environment for GPU kernel generation. KernelBench tasks, Triton kernels, GPU-validated correctness and paired timing on Modal, GRPO training of Qwen2.5-Coder-7B. |
 | Qwen3-1.7B GRPO | GRPO post-training for shorter reasoning: 22% shorter traces (579 to 450 tokens) at 85% GSM8K accuracy. |
 | [torchfeather](https://github.com/Shrey327/Distributed-Training) | DeepSeek-V3 style model and distributed training experiments in PyTorch. |
